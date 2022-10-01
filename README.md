@@ -3,7 +3,7 @@ an OS written in C++ and a bit of C.
 The base was made following [Ponchos OS Dev Youtube Playlist](https://www.youtube.com/playlist?list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ)
 
 
-MaslOS is 1000% the best os ever!11!1
+MaslOS is 1000% the best os ever!11!1 (1069% approved by RetroBoi128)
 
 
 
